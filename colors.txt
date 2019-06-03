@@ -2,3 +2,4 @@ pink
 purple
 blue
 yellow
+teal
