@@ -3,3 +3,6 @@ purple
 blue
 yellow
 teal
+green
+orange
+black
